@@ -1,0 +1,15 @@
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/Testing.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/Testing.cs.AssemblyInfoInputs.cache
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/Testing.cs.AssemblyInfo.cs
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/Testing.cs.csproj.CoreCompileInputs.cache
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/Testing.cs.sourcelink.json
+/Users/student/Semester1Dominic/C#/Testing.cs/bin/Debug/net8.0/Testing.cs
+/Users/student/Semester1Dominic/C#/Testing.cs/bin/Debug/net8.0/Testing.cs.deps.json
+/Users/student/Semester1Dominic/C#/Testing.cs/bin/Debug/net8.0/Testing.cs.runtimeconfig.json
+/Users/student/Semester1Dominic/C#/Testing.cs/bin/Debug/net8.0/Testing.cs.dll
+/Users/student/Semester1Dominic/C#/Testing.cs/bin/Debug/net8.0/Testing.cs.pdb
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/Testing.cs.dll
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/refint/Testing.cs.dll
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/Testing.cs.pdb
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/Testing.cs.genruntimeconfig.cache
+/Users/student/Semester1Dominic/C#/Testing.cs/obj/Debug/net8.0/ref/Testing.cs.dll
